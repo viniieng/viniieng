@@ -32,19 +32,13 @@
   <td align="center" valign="top" style="padding-right:40px;">
     <img 
       src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniieng&theme=github_dark" 
-      width="188"
-      alt="Most Commit Language"
-    />
-    <br/><br/>
-       <img 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniieng&theme=github_dark" 
-      width="188"
+      width="200"
       alt="Most Commit Language"
     />
     <br/><br/>
     <img 
       src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viniieng&theme=github_dark&utcOffset=8" 
-      width="188"
+      width="200"
       alt="Productive Time Card"
     />
   </td>
@@ -52,7 +46,7 @@
   <td align="center" valign="top">
     <img 
       src="https://i.imgur.com/sEym2ij.gif"
-      height="400"
+      height="280"
       alt="Dev coding pixel art"
     />
   </td>
