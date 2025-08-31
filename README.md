@@ -14,42 +14,45 @@
     alt="Typing SVG"
   />
 </div>
- <br>
+   <br/><br/>
 
-
-<!-- Bloco dos gráficos e pixel art -->
-<div align="center">
 
 <div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-  <!-- Coluna da esquerda: gráficos empilhados -->
-  <td align="center" valign="top" style="padding-right:40px;">
     <img 
       src="https://github-readme-streak-stats.herokuapp.com?user=viniieng&theme=github-dark&border_radius=6&date_format=j%20M%5B%20Y%5D"
       width="400"
       alt="GitHub Streak"
     />
     <br/><br/>
+  
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top" style="padding-right:40px;">
     <img 
       src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniieng&theme=github_dark" 
-      width="260"
+      width="188"
+      alt="Most Commit Language"
+    />
+    <br/><br/>
+       <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniieng&theme=github_dark" 
+      width="188"
       alt="Most Commit Language"
     />
     <br/><br/>
     <img 
       src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viniieng&theme=github_dark&utcOffset=8" 
-      width="260"
+      width="188"
       alt="Productive Time Card"
     />
   </td>
 
-  <!-- Coluna da direita: pixel art proporcional -->
   <td align="center" valign="top">
     <img 
       src="https://i.imgur.com/sEym2ij.gif"
-      height="600"
+      height="400"
       alt="Dev coding pixel art"
     />
   </td>
@@ -67,16 +70,13 @@ CURRENT STACKS</b></samp>
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <!-- Core -->
   <img width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="40" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
-  <!-- Database -->
   <img width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
-  <!-- Tools & Infra -->
   <img width="40" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img width="40" title="Google Cloud Platform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   <img width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -89,9 +89,6 @@ CURRENT STACKS</b></samp>
   
   <a href="mailto:viniengelmann@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-2ea043?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/viniieng/">
-    <img src="https://img.shields.io/badge/Instagram-2ea043?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/vinicius-engelmann-b8764b234/">
     <img src="https://img.shields.io/badge/LinkedIn-2ea043?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/>
@@ -107,10 +104,11 @@ CURRENT STACKS</b></samp>
   <summary><samp><b>More Info</b></samp></summary>
   <br/>
   <div align="center">
-    <samp>
-      • Based in Brazil · Full Stack Dev<br/>
-      • Focus on building modern web apps<br/>
-    </samp>
+ <samp>
+  • 21 years old · Based in Brazil · Full Stack Developer<br/>
+  • 2 years of experience in web development<br/>
+  • Focus on building modern web apps<br/>
+</samp>
   </div>
   <br/>
 </details>
