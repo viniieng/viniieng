@@ -28,19 +28,19 @@
   <td align="center" valign="top" style="padding-right:40px;">
     <img 
       src="https://github-readme-streak-stats.herokuapp.com?user=viniieng&theme=github-dark&border_radius=6&date_format=j%20M%5B%20Y%5D"
-      width="360"
+      width="400"
       alt="GitHub Streak"
     />
     <br/><br/>
     <img 
       src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniieng&theme=github_dark" 
-      width="360"
-      alt="Stats Card"
+      width="308"
+      alt="Most Commit Language"
     />
     <br/><br/>
     <img 
       src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viniieng&theme=github_dark&utcOffset=8" 
-      width="360"
+      width="308"
       alt="Productive Time Card"
     />
   </td>
@@ -49,7 +49,7 @@
   <td align="center" valign="top">
     <img 
       src="https://i.imgur.com/sEym2ij.gif"
-      height="650"
+      height="600"
       alt="Dev coding pixel art"
     />
   </td>
