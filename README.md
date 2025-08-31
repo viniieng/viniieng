@@ -1,30 +1,131 @@
 <div align="center">
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniieng&theme=dark" width="380" height="150" alt="viniieng" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniieng&layout=compact&theme=dark" width="380" height="150" alt="viniieng" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2ea043"/>
 </div>
 
-## 
-![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<div align="center">
+  <samp>
+    Hi there! I'm <b>Vinicius Engelmann</b>
+  </samp>
+  </div>
+  <br>
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2ea043&size=22&width=560&pause=1200&center=true&vCenter=true&lines=Full+Stack+Developer;Building+modern+web+applications;Welcome+to+my+profile!"
+    alt="Typing SVG"
+  />
+</div>
+ <br>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<!-- Bloco dos gráficos e pixel art -->
+<div align="center">
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+<div align="center">
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+  <!-- Coluna da esquerda: gráficos empilhados -->
+  <td align="center" valign="top" style="padding-right:40px;">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=viniieng&theme=github-dark&border_radius=6&date_format=j%20M%5B%20Y%5D"
+      width="360"
+      alt="GitHub Streak"
+    />
+    <br/><br/>
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniieng&theme=github_dark" 
+      width="360"
+      alt="Stats Card"
+    />
+    <br/><br/>
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viniieng&theme=github_dark&utcOffset=8" 
+      width="360"
+      alt="Productive Time Card"
+    />
+  </td>
 
-## Contacts
+  <!-- Coluna da direita: pixel art proporcional -->
+  <td align="center" valign="top">
+    <img 
+      src="https://i.imgur.com/sEym2ij.gif"
+      height="650"
+      alt="Dev coding pixel art"
+    />
+  </td>
+</tr>
+</table>
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniengelmann@gmail.com)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniieng/)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-engelmann-b8764b234/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21epdulysgctzqtca3ulu324i)
+</div>
+</div>
+
+<br/>
+
+<div align="center">
+  <samp><b>
+CURRENT STACKS</b></samp>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <!-- Core -->
+  <img width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img width="40" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
+  <!-- Database -->
+  <img width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+  <!-- Tools & Infra -->
+  <img width="40" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img width="40" title="Google Cloud Platform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  <img width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+<br/>
+
+<div align="center">
+  <samp><b>CONNECT WITH ME</b></samp>
+  <br/><br/>
+  
+  <a href="mailto:viniengelmann@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-2ea043?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/viniieng/">
+    <img src="https://img.shields.io/badge/Instagram-2ea043?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vinicius-engelmann-b8764b234/">
+    <img src="https://img.shields.io/badge/LinkedIn-2ea043?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/>
+  </a>
+  <a href="https://open.spotify.com/user/21epdulysgctzqtca3ulu324i">
+    <img src="https://img.shields.io/badge/Spotify-2ea043?style=for-the-badge&logo=spotify&logoColor=ffffff" alt="Spotify"/>
+  </a>
+</div>
+
+<br/>
+
+<details align="center">
+  <summary><samp><b>More Info</b></samp></summary>
+  <br/>
+  <div align="center">
+    <samp>
+      • Based in Brazil · Full Stack Dev<br/>
+      • Focus on building modern web apps<br/>
+    </samp>
+  </div>
+  <br/>
+</details>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fviniieng&s=30&c=2ea043&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta="
+    alt="Profile Visits Counter"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2ea043&section=footer"/>
+</div>
