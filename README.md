@@ -34,13 +34,13 @@
     <br/><br/>
     <img 
       src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniieng&theme=github_dark" 
-      width="308"
+      width="260"
       alt="Most Commit Language"
     />
     <br/><br/>
     <img 
       src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viniieng&theme=github_dark&utcOffset=8" 
-      width="308"
+      width="260"
       alt="Productive Time Card"
     />
   </td>
