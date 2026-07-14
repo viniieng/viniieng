@@ -1,123 +1,67 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2ea043"/>
-</div>
+<!-- troque pelo seu nome e pela sua tagline -->
+# Vinicius Engelmann
 
-<div align="center">
-  <samp>
-    Hi there! I'm <b>Vinicius Engelmann</b>
-  </samp>
-  </div>
-  <br>
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2ea043&size=22&width=560&pause=1200&center=true&vCenter=true&lines=Full+Stack+Developer;Building+modern+web+applications;Welcome+to+my+profile!"
-    alt="Typing SVG"
-  />
-</div>
-   <br/><br/>
+Full Stack Developer building web applications end-to-end — from API design to UI implementation.
 
+TypeScript · Node.js · C# · React · Vue &nbsp;|&nbsp; Brazil
 
-<div align="center">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=viniieng&theme=github-dark&border_radius=6&date_format=j%20M%5B%20Y%5D"
-      width="400"
-      alt="GitHub Streak"
-    />
-    <br/><br/>
-  
-<div align="center">
+<!-- troque pela sua bio real; mantenha em 1-2 linhas, sem clichê -->
+2+ years of professional experience shipping production web applications, with a focus on maintainable APIs and modern frontend architecture.
 
-<table border="0" cellspacing="0" cellpadding="0">
+---
+
+### Stack
+
+<table>
+<tr><td><b>Languages</b></td><td>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=2EA043" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=2EA043" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=c-sharp&logoColor=2EA043" alt="C#"/>
+</td></tr>
+<tr><td><b>Frontend</b></td><td>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=2EA043" alt="React"/>
+<img src="https://img.shields.io/badge/Vue-0D1117?style=flat-square&logo=vuedotjs&logoColor=2EA043" alt="Vue"/>
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=2EA043" alt="Node.js"/>
+<img src="https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=2EA043" alt=".NET"/>
+</td></tr>
+<tr><td><b>Data & Infra</b></td><td>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=2EA043" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2EA043" alt="Docker"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=2EA043" alt="Google Cloud"/>
+</td></tr>
+<tr><td><b>Tooling</b></td><td>
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=2EA043" alt="Git"/>
+</td></tr>
+</table>
+
+---
+
+### Activity
+
+<!-- username já configurado como "viniieng" nas 3 imagens abaixo; troque se o usuário mudar -->
+<table>
 <tr>
-  <td align="center" valign="top" style="padding-right:40px;">
-    <img 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniieng&theme=github_dark" 
-      width="200"
-      alt="Most Commit Language"
-    />
-    <br/><br/>
-    <img 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viniieng&theme=github_dark&utcOffset=8" 
-      width="200"
-      alt="Productive Time Card"
-    />
-  </td>
-
-  <td align="center" valign="top">
-    <img 
-      src="https://i.imgur.com/sEym2ij.gif"
-      height="280"
-      alt="Dev coding pixel art"
-    />
-  </td>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=viniieng&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9&icon_color=2EA043" alt="GitHub stats" />
+</td>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniieng&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9&langs_count=6" alt="Top languages" />
+</td>
 </tr>
 </table>
 
-</div>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=viniieng&hide_border=true&background=0D1117&stroke=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub streak" width="493"/>
 
-<br/>
+---
 
-<div align="center">
-  <samp><b>
-CURRENT STACKS</b></samp>
-</div>
+### Contact
 
-<div align="center" style="display: inline_block"><br>
-  <img width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img width="40" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  
-  <img width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-
-  <img width="40" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img width="40" title="Google Cloud Platform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-<br/>
-
-<div align="center">
-  <samp><b>CONNECT WITH ME</b></samp>
-  <br/><br/>
-  
-  <a href="mailto:viniengelmann@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-2ea043?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vinicius-engelmann-b8764b234/">
-    <img src="https://img.shields.io/badge/LinkedIn-2ea043?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/>
-  </a>
-  <a href="https://open.spotify.com/user/21epdulysgctzqtca3ulu324i">
-    <img src="https://img.shields.io/badge/Spotify-2ea043?style=for-the-badge&logo=spotify&logoColor=ffffff" alt="Spotify"/>
-  </a>
-</div>
-
-<br/>
-
-<details align="center">
-  <summary><samp><b>More Info</b></samp></summary>
-  <br/>
-  <div align="center">
- <samp>
-  • 21 years old · Based in Brazil · Full Stack Developer<br/>
-  • 2 years of experience in web development<br/>
-  • Focus on building modern web apps<br/>
-</samp>
-  </div>
-  <br/>
-</details>
-
-<br/>
-
-<div align="center">
-  <img 
-    src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fviniieng&s=30&c=2ea043&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta="
-    alt="Profile Visits Counter"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2ea043&section=footer"/>
-</div>
+<!-- troque pelo seu e-mail e link do LinkedIn -->
+<a href="mailto:viniengelmann@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=2EA043" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/vinicius-engelmann-b8764b234/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=2EA043" alt="LinkedIn"/>
+</a>
