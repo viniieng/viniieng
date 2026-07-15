@@ -1,67 +1,63 @@
-<!-- troque pelo seu nome e pela sua tagline -->
+<div align="center">
+
+<!-- troque pelo seu nome -->
 # Vinicius Engelmann
 
-Full Stack Developer building web applications end-to-end — from API design to UI implementation.
+Full Stack Developer · Brazil
 
-TypeScript · Node.js · C# · React · Vue &nbsp;|&nbsp; Brazil
+<!-- troque pela sua bio real; mantenha em 1-2 linhas -->
+Building resilient APIs and interfaces with Node.js, TypeScript and React.
+3+ years shipping production systems with data-integrity and observability requirements.
 
-<!-- troque pela sua bio real; mantenha em 1-2 linhas, sem clichê -->
-2+ years of professional experience shipping production web applications, with a focus on maintainable APIs and modern frontend architecture.
+<!-- troque pelo seu e-mail e LinkedIn -->
+<a href="mailto:viniciusengelmanndev@gmail.com"><img src="https://img.shields.io/badge/Email-313131?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/vinicius-engelmann-b8764b234/"><img src="https://img.shields.io/badge/LinkedIn-313131?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
----
+</div>
+
+<br/>
 
 ### Stack
 
-<table>
-<tr><td><b>Languages</b></td><td>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=2EA043" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=2EA043" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=c-sharp&logoColor=2EA043" alt="C#"/>
-</td></tr>
-<tr><td><b>Frontend</b></td><td>
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=2EA043" alt="React"/>
-<img src="https://img.shields.io/badge/Vue-0D1117?style=flat-square&logo=vuedotjs&logoColor=2EA043" alt="Vue"/>
-</td></tr>
-<tr><td><b>Backend</b></td><td>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=2EA043" alt="Node.js"/>
-<img src="https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=2EA043" alt=".NET"/>
-</td></tr>
-<tr><td><b>Data & Infra</b></td><td>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=2EA043" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2EA043" alt="Docker"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=2EA043" alt="Google Cloud"/>
-</td></tr>
-<tr><td><b>Tooling</b></td><td>
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=2EA043" alt="Git"/>
-</td></tr>
-</table>
+<div align="center">
 
----
+<img width="28" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img width="28" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="28" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="28" title="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+<img width="28" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="28" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img width="28" title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img width="28" title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+<img width="28" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+</div>
+
+<br/>
+
+### Projects
+
+<!-- adicione uma descrição curta (About) nesses repositórios no GitHub, ela aparece automaticamente no card -->
+<!-- troque client_acquisition/register_addresses pelos repositórios que você quiser destacar -->
+<div align="center">
+
+<a href="https://github.com/viniieng/client_acquisition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=viniieng&repo=client_acquisition&theme=dark&hide_border=true" alt="client_acquisition"/></a>
+<a href="https://github.com/viniieng/register_addresses"><img src="https://github-readme-stats.vercel.app/api/pin/?username=viniieng&repo=register_addresses&theme=dark&hide_border=true" alt="register_addresses"/></a>
+
+</div>
+
+<br/>
 
 ### Activity
 
-<!-- username já configurado como "viniieng" nas 3 imagens abaixo; troque se o usuário mudar -->
-<table>
-<tr>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=viniieng&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9&icon_color=2EA043" alt="GitHub stats" />
-</td>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniieng&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9&langs_count=6" alt="Top languages" />
-</td>
-</tr>
-</table>
+<!-- username já configurado como "viniieng"; troque nas 3 imagens abaixo se o usuário mudar -->
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=viniieng&hide_border=true&background=0D1117&stroke=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub streak" width="493"/>
+<img src="https://github-readme-stats.vercel.app/api?username=viniieng&show_icons=true&theme=dark&hide_border=true&hide_rank=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniieng&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top languages" height="165"/>
 
----
+<br/>
 
-### Contact
+<img src="https://github-readme-streak-stats.herokuapp.com?user=viniieng&theme=dark&hide_border=true" alt="GitHub streak" width="465"/>
 
-<!-- troque pelo seu e-mail e link do LinkedIn -->
-<a href="mailto:viniengelmann@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=2EA043" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/vinicius-engelmann-b8764b234/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=2EA043" alt="LinkedIn"/>
-</a>
+</div>
