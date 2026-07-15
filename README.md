@@ -21,15 +21,15 @@ Building resilient APIs and interfaces with Node.js, TypeScript and React.
 
 <div align="center">
 
-<img width="28" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="28" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="28" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="28" title="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
-<img width="28" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="28" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img width="28" title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-<img width="28" title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-<img width="28" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 
 </div>
 
@@ -38,11 +38,12 @@ Building resilient APIs and interfaces with Node.js, TypeScript and React.
 ### Projects
 
 <!-- adicione uma descrição curta (About) nesses repositórios no GitHub, ela aparece automaticamente no card -->
-<!-- troque client_acquisition/register_addresses pelos repositórios que você quiser destacar -->
+<!-- troque client_acquisition/register_addresses pelos repositórios que você quiser destacar (e ajuste o workflow em .github/workflows/update-readme-cards.yml) -->
+<!-- estes cards são gerados pela GitHub Action e commitados em profile/*.svg, não dependem de nenhum serviço externo no ar -->
 <div align="center">
 
-<a href="https://github.com/viniieng/client_acquisition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=viniieng&repo=client_acquisition&theme=dark&hide_border=true" alt="client_acquisition"/></a>
-<a href="https://github.com/viniieng/register_addresses"><img src="https://github-readme-stats.vercel.app/api/pin/?username=viniieng&repo=register_addresses&theme=dark&hide_border=true" alt="register_addresses"/></a>
+<a href="https://github.com/viniieng/client_acquisition"><img src="./profile/pin-client-acquisition.svg" alt="client_acquisition"/></a>
+<a href="https://github.com/viniieng/register_addresses"><img src="./profile/pin-register-addresses.svg" alt="register_addresses"/></a>
 
 </div>
 
@@ -50,11 +51,11 @@ Building resilient APIs and interfaces with Node.js, TypeScript and React.
 
 ### Activity
 
-<!-- username já configurado como "viniieng"; troque nas 3 imagens abaixo se o usuário mudar -->
+<!-- stats e top-langs são gerados pela GitHub Action (profile/*.svg); só o streak ainda vem de um serviço externo -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=viniieng&show_icons=true&theme=dark&hide_border=true&hide_rank=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniieng&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top languages" height="165"/>
+<img src="./profile/stats.svg" alt="GitHub stats" height="165"/>
+<img src="./profile/top-langs.svg" alt="Top languages" height="165"/>
 
 <br/>
 
