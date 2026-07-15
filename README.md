@@ -5,9 +5,17 @@
 
 Full Stack Developer · Brazil
 
-<!-- troque pela sua bio real; mantenha em 1-2 linhas -->
-Building resilient APIs and interfaces with Node.js, TypeScript and React.
-3+ years shipping production systems with data-integrity and observability requirements.
+<!-- troque pelos seus dados reais -->
+```bash
+echo $ABOUT_ME
+--------------
+21 years old, based in Brazil
+3+ years of experience in software development
+Full Stack Developer — Node.js, TypeScript, React
+Systems Analysis and Development (ADS) graduate
+AI enthusiast
+--------------
+```
 
 <!-- troque pelo seu e-mail e LinkedIn -->
 <a href="mailto:viniciusengelmanndev@gmail.com"><img src="https://img.shields.io/badge/Email-313131?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
